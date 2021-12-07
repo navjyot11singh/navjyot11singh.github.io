@@ -58839,7 +58839,7 @@ gaz(a){return this.a}}
 Q.p6.prototype={
 gaz(a){return this.a}}
 F.Dn.prototype={
-N(a,b){return new S.tT(new Y.tc(null),"OuahidDev",X.afO($.jh(),null,X.ag_()),!1,null)}}
+N(a,b){return new S.tT(new Y.tc(null),"Navjyot Singh",X.afO($.jh(),null,X.ag_()),!1,null)}}
 A.qN.prototype={
 aD(){return new A.wv(C.o)}}
 A.wv.prototype={
@@ -58930,7 +58930,7 @@ q=b.F(q).f.a.a*0.15
 return B.hC(p,M.aE(s,T.bn(H.a([L.ag(r,$.qD(),C.ar,s)],o),C.E,C.r,C.q),C.i,s,s,s,new V.as(q,100,q,100),s))},
 m(a){this.b8(0)}}
 N.Ci.prototype={
-N(a,b){var s,r=null,q="Proudly powered by OuahidDev \xa9",p=t.w,o=b.F(p).f.a.a*0.15,n=$.a8y().a,m=n>>>16&255,l=n>>>8&255
+N(a,b){var s,r=null,q="Proudly powered by Navjyot Singh \xa9",p=t.w,o=b.F(p).f.a.a*0.15,n=$.a8y().a,m=n>>>16&255,l=n>>>8&255
 n&=255
 s=t.D
 o=M.aE(r,T.bn(H.a([Z.l2(P.U(191,m,l,n),r,0.5),C.ao,T.dr(H.a([L.ag(q+H.aau(new P.dP(Date.now(),!1)),A.aW(r,r,P.U(191,m,l,n),r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),T.dr(this.Fe(),C.E,C.r,C.q)],s),C.E,C.cq,C.q)],s),C.E,C.r,C.q),C.l,r,r,r,new V.as(o,30,o,30),r)
